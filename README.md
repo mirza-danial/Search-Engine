@@ -1,2 +1,2 @@
-# IR-Assignment-1
-Information Retrieval Assignment 1
+# Search Engine
+Information Retrieval system based on inverted index for fast searching of locally stored HTML files using SPIMI in Python.
